@@ -564,34 +564,4 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [How To Learn Artificial Intelligence (AI)?](www.appliedaicourse.com/blog/how-to-learn-artificial-intelligence-ai/) - provides a step-by-step guide for beginners to understand and develop AI skills. It covers foundational topics like programming (Python), mathematics, and machine learning, progressing to advanced concepts such as deep learning and neural networks.
 
 ### Deep Learning
-- 🌎 [Geoffrey Hinton’s Neural Networks For Machine Learning ](medium.com/kaggle-blog)- it is now removed from cousrea but still check these list
-- 🌎 [Jeremy Howard’s Fast.ai & Data Institute Certificates](www.fast.ai/) - The in-person certificate courses are not free, but all of the content is available on Fast.ai as MOOCs.
-- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0🍴</code></b> [coursera-deep-learning-specialization](https://github.com/pratham5368/coursera-deep-learning-specialization)) - Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai
-- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [tensorflow](https://github.com/pratham5368/Tecnologies-I-Learn/tree/main/31-pytorch)) - all important notes to learn pytorch with all the examples in google colab
-
-## NVIDIA Platform Extensions
-
-- 🌎 [NVIDIA Omniverse AI Animal Explorer Extension](docs.omniverse.nvidia.com/extensions/latest/ext_animal-explorer.html#installation) - AI Animal Explorer is an Omniverse extension that enables creators to quickly prototype unique 3D animal meshes.
-
-
-## Related Awesome Lists
-
-- 🌎 [Altern](altern.ai) - Find Best AI Tools
-- 🌎 [AI For Developers](aifordevelopers.org) - List of AI DevTools
-- <b><code>&nbsp;&nbsp;&nbsp;728⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;131🍴</code></b> [Best of AI](https://github.com/best-of-ai/best-of-ai)) - Like Michelin Guide for AI
-- <b><code>&nbsp;&nbsp;&nbsp;148⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;19🍴</code></b> [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)) - A curated list of top AI models and LLMs
-- <b><code>&nbsp;&nbsp;2108⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;724🍴</code></b> [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)) - Curated list of AI-powered developer tools.
-- [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
-- 🌎 [There's An AI](theresanai.com) - Frontpage of AI
-- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;91⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9🍴</code></b> [Awesome AI Books](https://github.com/mahseema/aibooks)) - Curated List of Top AI and ML Books
-- 🌎 [AI for Productivity](productivity.directory/category/ai) - Curated List of AI Apps for productivity
-- 🌎 [Workflow Automation Softwares](productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
-- <b><code>&nbsp;&nbsp;1230⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;217🍴</code></b> [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation)) - Curated List of Workflow Automation Apps And Tools
-- <b><code>&nbsp;&nbsp;&nbsp;467⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;206🍴</code></b> [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing))
-- <b><code>&nbsp;&nbsp;&nbsp;878⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;476🍴</code></b> [Top AI Directories](https://github.com/best-of-ai/ai-directories)) - An awesome list of best top AI directories to submit your ai tools
-
-
-created by [Mahsima Dastan](https://github.com/mahseema)
-
-## Source
-<b><code>&nbsp;&nbsp;6284⭐</code></b> <b><code>&nbsp;&nbsp;2215🍴</code></b> [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools))
+- 🌎 [APIClaw](https://apiclaw.biz) — Flat-rate OpenAI-compatible AI API (Claude, GPT, Kimi, Qwen, DeepSeek, GLM), $19–$129/mo, 50 free trial.
